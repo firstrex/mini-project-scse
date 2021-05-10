@@ -16,7 +16,7 @@ know how we can best secure this application to reduce our vulnerabilities to cy
 of Engineering would also like to be able to track application performance and be alerted when things break. 
 
 ### The User Interface
-The application allows people to creat and account or login if they already have an account.
+The application allows people to create an account or login if they already have an account.
 
 ![UI Image](docs/images/create_account.png)
 
